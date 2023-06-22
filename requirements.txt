@@ -1,0 +1,6 @@
+scipy
+-e git+https://github.com/openai/gym.git@0.26.1#egg=gym
+-e git+https://github.com/Farama-Foundation/PettingZoo.git@1.20.1#egg=PettingZoo
+-e git+https://github.com/tzkwkblab/stable-baselines3.git@wkblab1.6.2#egg=stable-baselines3
+-e git+https://github.com/Stable-Baselines-Team/stable-baselines3-contrib.git@v1.6.2#egg=sb3-contrib
+-e git+https://github.com/Stanford-ILIAD/PantheonRL.git@1a591040784511bcf738d2acdec055c597e79180#egg=PantheonRL
